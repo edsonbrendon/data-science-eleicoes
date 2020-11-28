@@ -5,7 +5,7 @@ Análise das despesas dos partidos politicas em relacão ao resultado das eleiç
 Repositório de dados eleitorais: https://www.tse.jus.br/hotsites/pesquisas-eleitorais/index.html
 
 ```
-# pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ```
